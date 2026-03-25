@@ -1,0 +1,14 @@
+# Fichiers de données lourds (pour éviter le crash du push)
+amotion/
+*.h5
+*.json
+
+# Fichiers temporaires Windows et Office
+~$*
+Thumbs.db
+Desktop.ini
+
+# Environnements Python et Cache
+__pycache__/
+*.pyc
+.venv/
